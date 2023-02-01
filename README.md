@@ -1,4 +1,5 @@
 
+![image](https://github.com/dalkiran1907/Weather-App/blob/main/src/assets/img-2.png)
 
 
 # Getting Started with Create React App
